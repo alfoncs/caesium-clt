@@ -1,1 +1,0 @@
-C:\Users\Alfonso\GITHUB\caesium-clt\target\release\caesiumclt.exe: C:\Users\Alfonso\GITHUB\caesium-clt\src\logger.rs C:\Users\Alfonso\GITHUB\caesium-clt\src\main.rs C:\Users\Alfonso\GITHUB\caesium-clt\src\options.rs C:\Users\Alfonso\GITHUB\caesium-clt\src\scanfiles.rs
