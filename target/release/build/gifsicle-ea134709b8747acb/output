@@ -1,0 +1,58 @@
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("3")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/clp.o" "-c" "vendor/src/clp.c"
+clp.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/fmalloc.o" "-c" "vendor/src/fmalloc.c"
+fmalloc.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/giffunc.o" "-c" "vendor/src/giffunc.c"
+giffunc.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/gifread.o" "-c" "vendor/src/gifread.c"
+gifread.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/gifunopt.o" "-c" "vendor/src/gifunopt.c"
+gifunopt.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/merge.o" "-c" "vendor/src/merge.c"
+merge.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/optimize.o" "-c" "vendor/src/optimize.c"
+optimize.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/quantize.o" "-c" "vendor/src/quantize.c"
+quantize.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/support.o" "-c" "vendor/src/support.c"
+support.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/xform.o" "-c" "vendor/src/xform.c"
+xform.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/gifsicle.o" "-c" "vendor/src/gifsicle.c"
+gifsicle.c
+exit code: 0
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "vendor/include" "-I" "vendor/src" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out" "-DHAVE_CONFIG_H=1" "-DSIZEOF_VOID_P=8" "-DSIZEOF_UNSIGNED_LONG=4" "-DVERSION=\"1.92.5\"" "-Dmain=gifsicle_main" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/gifwrite.o" "-c" "vendor/src/gifwrite.c"
+gifwrite.c
+exit code: 0
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\lib.exe" "-out:C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\libgifsicle.a" "-nologo" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/clp.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/fmalloc.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/giffunc.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/gifread.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/gifunopt.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/merge.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/optimize.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/quantize.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/support.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/xform.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/gifsicle.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\gifsicle-ea134709b8747acb\\out\\vendor/src/gifwrite.o"
+exit code: 0
+cargo:rustc-link-lib=static=gifsicle
+cargo:rustc-link-search=native=C:\Users\Alfonso\GITHUB\caesium-clt\target\release\build\gifsicle-ea134709b8747acb\out

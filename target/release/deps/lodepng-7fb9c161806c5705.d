@@ -1,0 +1,11 @@
+C:\Users\Alfonso\GITHUB\caesium-clt\target\release\deps\lodepng-7fb9c161806c5705.rmeta: C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\lib.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\ffi.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\rustimpl.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\error.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\iter.rs
+
+C:\Users\Alfonso\GITHUB\caesium-clt\target\release\deps\liblodepng-7fb9c161806c5705.rlib: C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\lib.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\ffi.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\rustimpl.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\error.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\iter.rs
+
+C:\Users\Alfonso\GITHUB\caesium-clt\target\release\deps\lodepng-7fb9c161806c5705.d: C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\lib.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\ffi.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\rustimpl.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\error.rs C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\iter.rs
+
+C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\lib.rs:
+C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\ffi.rs:
+C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\rustimpl.rs:
+C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\error.rs:
+C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lodepng-3.7.0\src\iter.rs:

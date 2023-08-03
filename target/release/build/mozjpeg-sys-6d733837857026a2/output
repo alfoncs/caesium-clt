@@ -1,0 +1,169 @@
+cargo:include=C:\Users\Alfonso\GITHUB\caesium-clt\target\release\build\mozjpeg-sys-6d733837857026a2\out\include;C:\Users\Alfonso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mozjpeg-sys-1.0.2\vendor
+cargo:lib_version=62
+cargo:warning=NASM not installed. Mozjpeg's SIMD won't be enabled: program not found
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("3")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcapimin.o" "-c" "vendor/jcapimin.c"
+jcapimin.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcapistd.o" "-c" "vendor/jcapistd.c"
+jcapistd.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jccoefct.o" "-c" "vendor/jccoefct.c"
+jccoefct.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jccolor.o" "-c" "vendor/jccolor.c"
+jccolor.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcdctmgr.o" "-c" "vendor/jcdctmgr.c"
+exit code: 0
+jcdctmgr.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcext.o" "-c" "vendor/jcext.c"
+jcext.c
+exit code: 0
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jchuff.o" "-c" "vendor/jchuff.c"
+jchuff.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcinit.o" "-c" "vendor/jcinit.c"
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcmainct.o" "-c" "vendor/jcmainct.c"
+jcinit.c
+jcmainct.c
+exit code: 0
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcmarker.o" "-c" "vendor/jcmarker.c"
+jcmarker.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcmaster.o" "-c" "vendor/jcmaster.c"
+jcmaster.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcomapi.o" "-c" "vendor/jcomapi.c"
+jcomapi.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcparam.o" "-c" "vendor/jcparam.c"
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcphuff.o" "-c" "vendor/jcphuff.c"
+jcparam.c
+jcphuff.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcprepct.o" "-c" "vendor/jcprepct.c"
+jcprepct.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcsample.o" "-c" "vendor/jcsample.c"
+exit code: 0
+exit code: 0
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jctrans.o" "-c" "vendor/jctrans.c"
+jcsample.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdapimin.o" "-c" "vendor/jdapimin.c"
+jctrans.c
+jdapimin.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdapistd.o" "-c" "vendor/jdapistd.c"
+exit code: 0
+exit code: 0
+jdapistd.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdatadst.o" "-c" "vendor/jdatadst.c"
+jdatadst.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdatasrc.o" "-c" "vendor/jdatasrc.c"
+jdatasrc.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdcoefct.o" "-c" "vendor/jdcoefct.c"
+jdcoefct.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdcolor.o" "-c" "vendor/jdcolor.c"
+exit code: 0
+jdcolor.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jddctmgr.o" "-c" "vendor/jddctmgr.c"
+jddctmgr.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdhuff.o" "-c" "vendor/jdhuff.c"
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdinput.o" "-c" "vendor/jdinput.c"
+jdhuff.c
+exit code: 0
+jdinput.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdmainct.o" "-c" "vendor/jdmainct.c"
+jdmainct.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdmarker.o" "-c" "vendor/jdmarker.c"
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdmaster.o" "-c" "vendor/jdmaster.c"
+jdmarker.c
+exit code: 0
+jdmaster.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdmerge.o" "-c" "vendor/jdmerge.c"
+exit code: 0
+jdmerge.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdphuff.o" "-c" "vendor/jdphuff.c"
+jdphuff.c
+exit code: 0
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdpostct.o" "-c" "vendor/jdpostct.c"
+jdpostct.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdsample.o" "-c" "vendor/jdsample.c"
+exit code: 0
+jdsample.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdtrans.o" "-c" "vendor/jdtrans.c"
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jerror.o" "-c" "vendor/jerror.c"
+exit code: 0
+jdtrans.c
+jerror.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jfdctflt.o" "-c" "vendor/jfdctflt.c"
+jfdctflt.c
+exit code: 0
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jfdctfst.o" "-c" "vendor/jfdctfst.c"
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jfdctint.o" "-c" "vendor/jfdctint.c"
+jfdctfst.c
+jfdctint.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jidctflt.o" "-c" "vendor/jidctflt.c"
+jidctflt.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jidctfst.o" "-c" "vendor/jidctfst.c"
+exit code: 0
+jidctfst.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jidctint.o" "-c" "vendor/jidctint.c"
+jidctint.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jidctred.o" "-c" "vendor/jidctred.c"
+exit code: 0
+jidctred.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jmemmgr.o" "-c" "vendor/jmemmgr.c"
+exit code: 0
+jmemmgr.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jmemnobs.o" "-c" "vendor/jmemnobs.c"
+jmemnobs.c
+exit code: 0
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jquant1.o" "-c" "vendor/jquant1.c"
+jquant1.c
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jquant2.o" "-c" "vendor/jquant2.c"
+jquant2.c
+exit code: 0
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jutils.o" "-c" "vendor/jutils.c"
+jutils.c
+exit code: 0
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\include" "-I" "C:\\Users\\Alfonso\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\mozjpeg-sys-1.0.2\\vendor" "-FoC:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jsimd_none.o" "-c" "vendor/jsimd_none.c"
+jsimd_none.c
+exit code: 0
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "I:\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\lib.exe" "-out:C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\libmozjpeg62.a" "-nologo" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcapimin.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcapistd.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jccoefct.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jccolor.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcdctmgr.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcext.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jchuff.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcinit.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcmainct.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcmarker.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcmaster.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcomapi.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcparam.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcphuff.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcprepct.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jcsample.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jctrans.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdapimin.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdapistd.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdatadst.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdatasrc.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdcoefct.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdcolor.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jddctmgr.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdhuff.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdinput.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdmainct.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdmarker.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdmaster.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdmerge.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdphuff.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdpostct.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdsample.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jdtrans.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jerror.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jfdctflt.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jfdctfst.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jfdctint.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jidctflt.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jidctfst.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jidctint.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jidctred.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jmemmgr.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jmemnobs.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jquant1.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jquant2.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jutils.o" "C:\\Users\\Alfonso\\GITHUB\\caesium-clt\\target\\release\\build\\mozjpeg-sys-6d733837857026a2\\out\\vendor/jsimd_none.o"
+exit code: 0
+cargo:rustc-link-lib=static=mozjpeg62
+cargo:rustc-link-search=native=C:\Users\Alfonso\GITHUB\caesium-clt\target\release\build\mozjpeg-sys-6d733837857026a2\out

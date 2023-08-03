@@ -1,0 +1,13 @@
+C:\Users\Alfonso\GITHUB\caesium-clt\target\release\deps\libcaesium-dd98db048ea13432.rlib: C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src/lib.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\gif.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\jpeg.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\png.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\resize.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\utils.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\webp.rs
+
+C:\Users\Alfonso\GITHUB\caesium-clt\target\release\deps\caesium-dd98db048ea13432.dll: C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src/lib.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\gif.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\jpeg.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\png.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\resize.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\utils.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\webp.rs
+
+C:\Users\Alfonso\GITHUB\caesium-clt\target\release\deps\caesium-dd98db048ea13432.d: C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src/lib.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\gif.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\jpeg.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\png.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\resize.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\utils.rs C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\webp.rs
+
+C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src/lib.rs:
+C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\gif.rs:
+C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\jpeg.rs:
+C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\png.rs:
+C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\resize.rs:
+C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\utils.rs:
+C:\Users\Alfonso\.cargo\git\checkouts\libcaesium-d7aaefac9a43b727\2b69935\src\webp.rs:
